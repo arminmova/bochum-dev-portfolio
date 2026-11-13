@@ -1,10 +1,10 @@
 # bochum-dev-portfolio
 My personal developer portfolio.
 
-##About
+## About
 I am a Computer Science student at Hochschule Bochum.
 
-##Technologies
--HTML
--CSS
--JavaScript
+## Technologies
+- HTML
+- CSS
+- JavaScript
