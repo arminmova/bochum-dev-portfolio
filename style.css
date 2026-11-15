@@ -12,8 +12,14 @@ h2 {
 
 .about-title {
   color: orange;
+  padding: 20px;
+  margin-bottom:40px;
+  border: 2px solid black;
 }
 
 .projects-title {
   color: purple;
+  border: 3px solid purple;
+  padding: 15px;
+  margin-bottom: 30px;
 }
