@@ -1,3 +1,19 @@
 body {
   color: green;
 }
+
+p{
+  color: red;
+}
+
+h2 {
+  color: blue;
+}
+
+.about-title {
+  color: orange;
+}
+
+.projects-title {
+  color: purple;
+}
