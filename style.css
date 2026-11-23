@@ -1,6 +1,6 @@
 body {
   color: #1f2937;
-  font-family: Arial,sans-serif;
+  font-family: Arial, sans-serif;
   background-color: #f3f4f6;
 }
 
@@ -11,7 +11,7 @@ body {
   box-sizing: border-box;
 }
 
-p{
+p {
   color: #1f2937;
   line-height: 1.8;
 }
@@ -23,7 +23,7 @@ h2 {
 .about-title {
   color: #2563eb;
   padding: 20px;
-  margin-bottom:40px;
+  margin-bottom: 40px;
   border: 2px solid #2563eb;
 }
 
@@ -37,4 +37,14 @@ h2 {
 h1 {
   font-size: 40px;
   font-weight: 700;
+}
+
+.projects-list {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+}
+
+.projects-list article {
+  flex: 1;
 }
